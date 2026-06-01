@@ -22,7 +22,7 @@ export default function Footer() {
                         <h4 className="text-sm sm:text-base font-bold text-white mb-3">
                             Títulos Mundiais
                         </h4>
-                        <ul className="space-y-1.5 text-gray-400 text-xs sm:text-sm">
+                        <ul className="space-y-1.5 text-gray-400 text-xs sm:text-sm text-justify">
                             <li>1958 • Suécia • Campeão</li>
                             <li>1962 • Chile • Campeão</li>
                             <li>1970 • México • Campeão</li>
