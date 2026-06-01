@@ -14,7 +14,7 @@ export default function Description() {
                     <span className="text-brazil-yellow">Hexa</span>
                 </h2>
 
-                <div className="bg-white/5 backdrop-blur-sm border border-brazil-yellow/20 rounded-2xl p-4 sm:p-6 md:p-8 text-left">
+                <div className="bg-white/5 backdrop-blur-sm border border-brazil-yellow/20 rounded-2xl p-4 sm:p-6 md:p-8 text-justify">
                     <p className="text-gray-200 text-sm sm:text-base md:text-lg leading-relaxed mb-4">
                         Em 19 de julho de 2026, o Brasil eternizou seu nome na história do futebol mundial
                         ao conquistar o tão sonhado <strong className="text-brazil-yellow">Hexacampeonato</strong>

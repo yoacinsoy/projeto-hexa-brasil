@@ -116,7 +116,7 @@ export default function Card() {
                                 {player.club}
                             </p>
 
-                            <p className="text-xs sm:text-sm text-gray-300 leading-relaxed mb-3">
+                            <p className="text-xs sm:text-sm text-gray-300 leading-relaxed mb-3 text-justify">
                                 {player.description}
                             </p>
 

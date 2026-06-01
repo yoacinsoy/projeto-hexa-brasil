@@ -12,7 +12,7 @@ export default function Footer() {
                                 Hexa Campeão
                             </h3>
                         </div>
-                        <p className="text-gray-400 text-xs sm:text-sm leading-relaxed">
+                        <p className="text-gray-400 text-xs sm:text-sm leading-relaxed text-justify">
                             Brasil hexacampeão mundial de futebol. Uma conquista que eterniza ainda mais
                             a paixão do povo brasileiro pelo esporte mais amado do mundo.
                         </p>
@@ -74,11 +74,11 @@ export default function Footer() {
 
                 <div className="border-t border-brazil-yellow/10 mt-6 sm:mt-8 pt-4 sm:pt-6 text-center">
                     <p className="text-gray-500 text-xs sm:text-sm">
-                        © {new Date().getFullYear()} Seleção Brasileira - Hexa Campeão Mundial 2026.
+                        01/06/2026 - Seleção Brasileira - Hexa Campeão Mundial 2026.
                         Todos os direitos reservados. 🇧🇷
                     </p>
                     <p className="text-gray-600 text-xs mt-1">
-                        Feito com 💚💛 pelos torcedores brasileiros
+                        Feito com 💚💛 por @yoacinsoy
                     </p>
                 </div>
             </div>
